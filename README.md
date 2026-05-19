@@ -1,6 +1,6 @@
 # ApiFamily
 
-API REST minimalista en .NET 10 para gestionar miembros de una familia.
+API REST minimalista en .NET 9 para gestionar miembros de una familia.
 
 ## Endpoints
 
