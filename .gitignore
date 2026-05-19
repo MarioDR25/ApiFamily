@@ -1,0 +1,64 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+node_modules/
+bower_components/
+*.bowerrc
+*.orig
+
+## Visual Studio
+.vs/
+*.sln.docstates
+_ReSharper.*
+*.resharper
+*.resharper.user
+[Tt]est[Rr]esult*/
+[Bb]uild[Rr]eport.*
+*.[Cc]ache
+*.apk
+*.ipa
+*.nupkg
+*_i.c
+*_p.c
+*.ncrunch*
+*.vsmdi
+*.vssscc
+*.vspscc
+*.vsp
+*.psess
+*.dbmdl
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+
+## VSCode
+.vscode/
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Environment
+.env
+*.env.local
+*.env.*.local
+
+## Logs
+*.log
